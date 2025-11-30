@@ -1,7 +1,8 @@
 # Employee Attendance System
-Name:Nazeer Shaik         College:Seshadri Rao Gudlavalleru Engineering College                 contact:8247331227
 A full-stack Attendance Management System with separate roles for **Employees** and **Managers**.  
 Employees can mark daily attendance and view their history, while Managers can monitor team attendance, generate summaries, and export CSV reports.
+
+Name:Nazeer Shaik         College:Seshadri Rao Gudlavalleru Engineering College                contact:8247331227
 ---
 ## 🚀 Tech Stack
 ### Frontend
